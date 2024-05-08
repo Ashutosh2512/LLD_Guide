@@ -1,0 +1,10 @@
+Requirement:
+
+1. Two types of users: Admin and Customer.
+2. User should be able to create an account.
+3. Admin should be able to register a new Hotel and rooms for it.
+4. Admin should be able to add new rooms for an existing Hotel.
+5. Customer should be able to get all available hotels using location name.
+7. Customer should be able to get all the rooms available in a hotel.
+8. Customer should be able to book a room.
+
